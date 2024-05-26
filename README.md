@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN STACk<br>🌱 I’m currently learning WEB DEVLOPING<br><br>
+🔭 I’m currently working on MERN STACK<br>🌱 I’m currently learning WEB DEVLOPING<br><br>
 
 
 ## 🌐 Socials:
